@@ -154,6 +154,8 @@ Setelah gagal mengakses FTP, Melkor melancarkan serangan brute force terhadap  M
 
    <img width="1914" height="707" alt="Screenshot 2025-10-01 000351" src="https://github.com/user-attachments/assets/f75de848-6eef-403f-a50f-c2546b6c3010" />
 
+
+### 7 Membuat 2 user yaitu Ainun dan Melkor
 ### 15. Buka file capture dapatkan password rahasia
 
 Melkor menyusup ke ruang server dan memasang keyboard USB berbahaya pada node Manwe. Buka file capture dan identifikasi pesan atau ketikan (keystrokes) yang berhasil dicuri oleh Melkor untuk menemukan password rahasia.
